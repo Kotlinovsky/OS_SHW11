@@ -1,0 +1,5 @@
+/home/kotlinovsky/Projects/OS/Sem11/cmake-build-debug/CMakeFiles/Sem11_Server.dir
+/home/kotlinovsky/Projects/OS/Sem11/cmake-build-debug/CMakeFiles/Sem11_Client1.dir
+/home/kotlinovsky/Projects/OS/Sem11/cmake-build-debug/CMakeFiles/Sem11_Client2.dir
+/home/kotlinovsky/Projects/OS/Sem11/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kotlinovsky/Projects/OS/Sem11/cmake-build-debug/CMakeFiles/rebuild_cache.dir

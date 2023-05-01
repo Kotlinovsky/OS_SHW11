@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Sem11",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Sem11_Client1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Sem11_Client1-Debug-d52df02e1f2bcf04d787.json",
+					"name" : "Sem11_Client1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Sem11_Client2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Sem11_Client2-Debug-08106e1d48498d9d95d3.json",
+					"name" : "Sem11_Client2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Sem11_Server::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Sem11_Server-Debug-06aaf2139a267851d5b9.json",
+					"name" : "Sem11_Server",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/kotlinovsky/Projects/OS/Sem11/cmake-build-debug",
+		"source" : "/home/kotlinovsky/Projects/OS/Sem11"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
